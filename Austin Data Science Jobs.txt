@@ -1,0 +1,60 @@
+﻿Job1
+Master’s Degree in Operations Research, Applied Statistics, Data Mining, Machine Learning or a related quantitative discipline.Highly skilled at R and/or Python programming for data science.
+Deep understanding of statistical and machine-learning approaches, including supervised (regression and classification techniques) and unsupervised (clustering) learning, as well as recommendation methods. Use of graphical packages, like ggplot2, matplotlib, plotly, or seaborn, to visualize outcomes to a wide audience. 4-5+ years’ experience delivering world-class data science outcomes, you solve complex analytical problems using quantitative approaches with your unique blend of analytical, mathematical and technical skills.Excellent communication skills, not only with other analytically-minded individuals, but a wider audience.You are a ‘doer’.Experience with cloud computing environments and tooling (e.g. AWS, Azure, Domino Data Lab). Familiarity with the software development lifecycle. Ability to independently navigate the data science process, ranging from identifying a business problem, acquiring data, experimenting with solutions, and sharing results. Familiarity and background in health care data analytics and use of protected health care data.
+
+
+Job2
+In pursuit of an undergraduate, graduate, or PhD degree at a four-year institution in Data Science, Math, Physics, Statistics, Computer Science,  Engineering, or related field.Deep desire to manipulate and analyze complex, high-volume, highly dimensional data from varying sources.Passion for empirical research and answering hard questions with data and models.Knowledge of statistical concepts such as correlation, linear regression, optimization, and how they can be applied.
+Exposure to statistical analysis tools/frameworks such as NumPy/SciPy/Pandas/SciKit learn, or SparkML.Expertise in Machine Learning/Cognitive Computing algorithms and techniques would be a bonus.Excellent problem solver with the ability to take initiative.Able to present findings and communicate effectively.Able to work collaboratively across teams and leverage constructive feedback.Naturally curious and skeptical.
+
+
+Job3
+Experience in data mining, data analysis, and predictive modeling
+Previous work experience in business intelligence and data analytics
+Proven experience utilizing statistical techniques to identify key insights from data to solve business
+Problems
+
+
+Job4
+Work with a team of data scientists, machine learning engineers, software engineers and QA engineers.
+Perform data collection, preprocessing, feature engineering, data visualization and analysis.
+Build automation of data collection and preprocessing.
+Build models to address business problems.
+Engage with lines of business, users and analysts to explore and prototype opportunities and use-cases exploiting data and the application of cognitive and machine learning technologies.
+Design, develop, test and support Cognitive microservices to operationalize and productize deployment of resulting models and cognitive solutions.
+Modern, object-oriented or functional programming experience, (Java, C++, Python, Scala, SQL, R)
+Data Science and Machine Learning Frameworks (“R”, Apache Spark / MLlib, TensorFlow, Scikit-learn, etc…)
+Natural Language Processing (NLTK, CoreNLP, Gensim, Spacy, etc..)
+Experience with Big-Data technologies and cloud (AWS, other)
+Linux / Bash scripting
+Relational databases (Oracle, PostgreSQL, MySQL, etc.)
+Agile development methodology
+CI/CD Development environments and tools (GIT, Maven, Jenkins, etc)
+RESTful Microservice APIs
+Strong analytical skills. Previous experience or education focused on statistics or data science is valuable.
+Qualifications
+Bachelors degree in Computer Science or related degree.
+At least 1 year of experience through internships or field related work experience.
+Experience in working on an Open Source project a plus but not required.
+Good English language skills
+Appreciate the value of diversity (in all its forms) brings to our team and company
+Ph.D. or M.S. in Computer Science, Statistics, or related field.Proficient with at least one major programming language (Java, Scala, C++, Python).Experience with supervised and unsupervised machine learning algorithms.Strong grasp of data structures and algorithms.Good communication skills with both technical and business people. Ability to speak at a level appropriate for the audience.Cares deeply about agile software practices, data driven development, and collaborating with other researchers and engineers.
+
+
+Job5
+Design and implement data analysis, data mining, research, analysis, modeling strategies and best practices Use analytical expertise to spot key business insights, trends, and opportunities in our vast database Help interpret and communicate your findings in a way that is easily understood by those less familiar with data Collaborate with a dynamic Product and Development team in delivering data products and insights to clients Establish and maintain relationships with distributed cross-functional teams to leverage domain and industry expertise Identify missing and inaccurate data in our platforms; seek out supplements and replacements to improve our data sets to the greatest extent possible Advise teams and clients as a subject matter expert in data science Bachelor’s degree in a quantitative field such as Statistics, Computer Science, Economics, or Mathematics; or equivalent work experience Relevant, successful professional industry experience Proficiency with database and analysis tools like R, SQL, Python, and others Expertise in statistical modeling, data collection, aggregation, analysis, machine learning, and\ productization Self-driven passion for finding and collaboratively solving problems Strong understanding of the benefits and flaws in the application of various methods
+
+
+Job6
+Bachelor’s or graduate degree in statistics/computer science or related field plus a minimum of 3 years applied analytics experience End-to-end experience developing approach/methodology given business need, ETL, data quality analysis, model development  and validation (machine learning or statistical), scoring, presentation of results and deployment into production environment (including AWS, Azure, Google Cloud) Strong experience with predictive models and clustering (segmentation) Strong/Expert SQL, Python, R, in a Hadoop environment H2O experience a plus Experience with Tableau, Birst, Microsoft Excel and PowerPoint Travel Requirement may be required, up to 20%
+Strong team player, flexible, and creative Experience with marketing related analytics/channels/metrics, especially digital Passion/Curiosity around new techniques, ie deep learning Identity resolution experience, data with multiple levels and sources – aggregating & connecting Ability to learn and lead with minimal oversight, work on several projects at same time Strong communication and presentation skills, ability to maintain timeline (stay on task)
+
+
+Job7
+PhD degree in computer science, or related technical, math, or scientific field
+Strong working knowledge of deep learning, machine learning and statistics.
+Hands on experience building models with deep learning frameworks like MXNet, Tensorflow, Caffe, Torch, Theano or similar. Experience in using Python, R or Matlab or other statistical/machine learning software Strong communication and data presentation skills The motivation to achieve results in a fast-paced environment. Experience with statistical modeling / machine learning Strong attention to detail Comfortable working in a fast paced, highly collaborative, dynamic work environment Ability to think creatively and solve problems
+
+
+Job8
+ability to tell meaningful stories with data. Programming skills in Python Experience with SQL, database modeling and data warehousing principles. Creativity to go beyond current tools to deliver best solution to the problem. Data visualization experience in Matplotlib, Tableau, ggplot2 or a similar tool. Experience with data science algorithms including decision trees, probability networks, association rules, clustering, regression, and neural networks. Excellent interpersonal, written, and verbal communication skills. Ability and comfort working independently and making key decisions on projects. Build and monitor effective reporting and alerting for fraud and operational health of a line of business.  Perform ad-hoc and re-occurring statistical and data science analyses.  Work closely with data warehouse architects and software developers to generate seamless business intelligence solutions for end users.  Support production analytic solutions.  Present results of analyses to business units.
